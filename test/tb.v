@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 
-module c06_core_tb;
+module tt_um_c06_core_tb;
     // Khai báo tín hiệu
     logic clk, rst_n;
     logic [7:0] sample_in, threshold;
